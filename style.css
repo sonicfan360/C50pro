@@ -1,0 +1,25 @@
+.Info{
+    background-color:black;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap
+}
+.GImage{
+    width:50%;
+    
+
+}
+.facts{
+    background-color: black;
+    color:blue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}
+.Gjr{
+    background-color: black;
+    color:rgb(0, 255, 0);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
